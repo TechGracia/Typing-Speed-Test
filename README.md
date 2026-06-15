@@ -1,42 +1,89 @@
-# sv
+# ⌨️ TypeSpeed — Typing Speed Test
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A modern and interactive typing speed test application built using **Svelte 5 + SvelteKit**.
 
-## Creating a project
+Live Demo: (Add your Vercel URL here)
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
 
-```sh
-# create a new project
-npx sv create my-app
+## Features
+
+✨ Real-time WPM calculation  
+🎯 Accuracy tracking  
+🏆 Best score saved using Local Storage  
+🌗 Light / Dark mode  
+📚 Multiple difficulty levels  
+🔁 Random paragraph generation  
+📱 Responsive UI  
+⚡ Smooth animations and interactions  
+
+---
+
+## Tech Stack
+
+- Svelte 5
+- SvelteKit
+- JavaScript
+- CSS
+- Vite
+
+---
+
+## Screenshots
+
+Add screenshots here later.
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/TechGracia/typing-speed-test.git
 ```
 
-To recreate this project with the same configuration:
+Install dependencies:
 
-```sh
-# recreate this project
-npx sv@0.16.1 create --template minimal --no-types --install npm typing-speed-test
+```bash
+npm install
 ```
 
-## Developing
+Run locally:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
+```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+Build:
 
-To create a production version of your app:
-
-```sh
+```bash
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+---
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+## What I Learned
+
+- Svelte state management
+- Reactive UI updates
+- Local Storage
+- Component design
+- Responsive layouts
+- UI/UX improvements
+
+---
+
+## Future Improvements
+
+- Typing history
+- Leaderboard
+- Multiplayer mode
+- More paragraph sets
+- Analytics dashboard
+
+---
+
+## Author
+
+Built by **G**
