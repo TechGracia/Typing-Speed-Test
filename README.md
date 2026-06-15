@@ -86,4 +86,4 @@ npm run build
 
 ## Author
 
-Built by **G**
+Built by **Gracia** using Svelte.
