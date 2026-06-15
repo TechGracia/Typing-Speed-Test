@@ -2,7 +2,7 @@
 
 A modern and interactive typing speed test application built using **Svelte 5 + SvelteKit**.
 
-Live Demo: (Add your Vercel URL here)
+Live Demo:[ https://typing-speed-test-woad-nine.vercel.app](https://typing-speed-test-woad-nine.vercel.app/)
 
 ---
 
