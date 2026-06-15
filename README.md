@@ -29,12 +29,6 @@ Live Demo:[ https://typing-speed-test-woad-nine.vercel.app](https://typing-speed
 
 ---
 
-## Screenshots
-
-Add screenshots here later.
-
----
-
 ## Installation
 
 Clone the repository:
